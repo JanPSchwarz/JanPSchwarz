@@ -8,7 +8,7 @@
     -  🎵🎸
     -  🌍✈🚂🥾
     -  🤝🏻👋🏻
--  Took off for a huge change and lifte-time journey
+-  Took off for a big change and life-time journey
       
 -  My favorite quote:
   
