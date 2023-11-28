@@ -14,12 +14,19 @@
   
 > "Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So, throw off the bowlines, sail away from safe harbor, catch the trade winds in your sails. Explore, Dream, Discover." -Mark Twain
 
-[^1]: Hallo
 ___
 
 ### Carrer:
 
 - Just started out participating in a Web Dev Course with `<NeueFische GmbH/>`
 - Finishing June 2024 and hopefully starting out after! 🚀
+- So far:
+    - [x] HTML
+    - [x] CSS
+    - [ ] Javascript
+    - [ ] React
+    - [ ] Vue.js
+  
+ 
 
 
