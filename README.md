@@ -1,5 +1,5 @@
 # Welcome and
-*hi!🙋‍♂️ My name is Jan and it's nice to meet you! I'im located in Braunschweig, Berlin and Copenhagen but since i love travelling and Coding makes my life a lot more independent, you may probably find me in other corners of the world as well🌎 Looking forward to see you there! 😊*
+*Hi!🙋‍♂️ My name is Jan and it's nice to meet you! I'im located in Braunschweig, Berlin and Copenhagen but since i love travelling (and Coding makes my life a lot more independent), you may probably find me in other corners of the world as well🌎 Looking forward to see you there! 😊*
 
 ## About Me:
 - M/32 y
@@ -19,13 +19,16 @@ ___
 ### Carrer:
 
 - Just started out participating in a Web Dev Course with `<NeueFische GmbH/>`
-- Finishing June 2024 and hopefully starting out after! 🚀
+- Finishing **June 2024** and hopefully starting out after! 🚀
 - So far:
     - [x] HTML
     - [x] CSS
     - [ ] Javascript
     - [ ] React
-    - [ ] Vue.js
+    - [ ] Node.js
+ ---
+
+ 
   
  
 
