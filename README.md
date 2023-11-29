@@ -12,7 +12,7 @@
       
 -  My favorite quote:
   
-> "Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So, throw off the bowlines, sail away from safe harbor, catch the trade winds in your sails. Explore, Dream, Discover." -Mark Twain
+> *"Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So, throw off the bowlines, sail away from safe harbor, catch the trade winds in your sails. Explore, Dream, Discover." -[Mark Twain](https://en.wikipedia.org/wiki/Mark_Twain)*
 
 ___
 
@@ -26,6 +26,12 @@ ___
     - [ ] Javascript
     - [ ] React
     - [ ] Node.js
+
+### Contact/Reference:
+| E-Mail | freeCodeCamp | 
+| --- | --- |
+| <jan-paul@schw-a-rz.de> | <https://www.freecodecamp.org> | 
+
  ---
 
  
