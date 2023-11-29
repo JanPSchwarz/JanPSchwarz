@@ -26,6 +26,8 @@ ___
     - [ ] Javascript
     - [ ] React
     - [ ] Node.js
+ 
+---
 
 ### Contact/Reference:
 | E-Mail | freeCodeCamp | 
