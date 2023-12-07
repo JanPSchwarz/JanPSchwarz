@@ -1,4 +1,4 @@
-# Welcome
+# Welcome and
 
 _Hi!🙋‍♂️ My name is Jan and it's nice to meet you! I'm located in Braunschweig, Berlin and Copenhagen but since i love travelling (and Coding makes my life a lot more independent), you may probably find me in other corners of the world as well🌎 Looking forward to see you there! 😊_
 
