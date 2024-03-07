@@ -24,9 +24,9 @@ _Hi!🙋‍♂️ My name is Jan and it's nice to meet you! I'm located in Braun
 - So far:
   - [x] HTML
   - [x] CSS
-  - [ ] Javascript
-  - [ ] React
-  - [ ] Node.js
+  - [x] Javascript
+  - [X] React
+  - [x] Next.js
 
 ---
 
