@@ -1,6 +1,6 @@
 # Welcome and
 
-_Hi, nice to see you here!🙋‍♂️ My name is Jan, i am a Web Developer living in in Braunschweig(Germany) but since i enjoy travelling, you may probably find me in other corners of the world as well🌎 Looking forward to see you there!_
+_Hi, nice to see you here!🙋‍♂️ My name is Jan, i am a Web Developer living in Braunschweig(Germany) but since i enjoy travelling, you may probably find me in other corners of the world as well🌎 Looking forward to see you there!_
 
 ## About Me:
 
@@ -19,7 +19,7 @@ _Hi, nice to see you here!🙋‍♂️ My name is Jan, i am a Web Developer liv
 
 - I participated in a web-dev course @ `<NeueFische GmbH/>`
 - Finished **June 2024** and currently looking for a job 🚀
-- So far:
+- So far main stack:
   - [x] HTML
   - [x] CSS
   - [x] Javascript
@@ -30,7 +30,5 @@ _Hi, nice to see you here!🙋‍♂️ My name is Jan, i am a Web Developer liv
 
 ### Contact/Reference:
 
-| [<img src="https://github.com/JanPSchwarz/JanPSchwarz/assets/152087206/d6cb7eb1-332a-4e1c-a0fa-177ec83e2dbc" width="16" height="16">](mailto:jan-paul@schw-a-rz.de) | [<img src="https://github.com/JanPSchwarz/JanPSchwarz/assets/152087206/0c24c3a2-8f43-4f54-8d92-4e9e39515503" width="16" height="16">](https://www.freecodecamp.org/JanPSchwarz) | [<img src="https://github.com/JanPSchwarz/JanPSchwarz/assets/152087206/807308c2-320f-41c0-97b9-cf44cd331329)"  width="16" height="16">](https://www.facebook.com/) | [<img src="https://github.com/JanPSchwarz/JanPSchwarz/assets/152087206/116f00e5-957f-4ac0-9df0-c50def8f8eb0"  width="16" height="16">](https://www.instagram.com/) |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-
----
+| [<img src="https://github.com/JanPSchwarz/JanPSchwarz/assets/152087206/d6cb7eb1-332a-4e1c-a0fa-177ec83e2dbc" width="16" height="16">](mailto:jan-paul@schw-a-rz.de) |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
