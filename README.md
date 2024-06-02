@@ -28,7 +28,7 @@ _Hi, nice to see you here!🙋‍♂️ My name is Jan, i am a Web Developer liv
 
 ---
 
-### Contact/Reference:
+### Contact Me:
 
 | [<img src="https://github.com/JanPSchwarz/JanPSchwarz/assets/152087206/d6cb7eb1-332a-4e1c-a0fa-177ec83e2dbc" width="16" height="16">](mailto:jan-paul@schw-a-rz.de) |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
