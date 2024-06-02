@@ -9,7 +9,7 @@ _Hi, nice to see you here!🙋‍♂️ My name is Jan, i am a Web Developer liv
   - Sports: 🏊🏻‍♀️ 🏃🏻‍♂️ 🏂🏻 🏄🏻‍♂️ 🏝-🏐
   - Music: 🎵🎸
   - Travelling: 🌍✈🚂🥾 + 🤝🏻👋🏻
-- Since i engaged into a career change towards Web-Developing this quote pretty much hits the core of my motivation:
+- I engaged into a career change towards Web-Developing and this quote pretty much hits the core of my motivation:
 
 > _"Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So, throw off the bowlines, sail away from safe harbor, catch the trade winds in your sails. Explore, Dream, Discover." -[Mark Twain](https://en.wikipedia.org/wiki/Mark_Twain)_
 
