@@ -1,6 +1,8 @@
 # Welcome
 
-_Hi, nice to see you here!🙋‍♂️ My name is Jan, i am a Web Developer living in Braunschweig(Germany). I gave up my former profession to become a passionated Web Dev and explore the world of coding 🌎 I enjoy combining sharp logic and gorgeous visuals👨🏼‍💻_
+_Hi, nice to see you here!🙋‍♂️ My name is Jan, i am a Web Developer living in Braunschweig(Germany)._
+
+_I gave up my former profession to become a passionated Web Dev, explore the world of coding and develop not only great web apps but continously myself 🌎 I enjoy combining sharp logic and gorgeous visuals👨🏼‍💻_
 
 ---
 
@@ -24,6 +26,12 @@ _Hi, nice to see you here!🙋‍♂️ My name is Jan, i am a Web Developer liv
 
 #### Personal educational/fun projects:
 [Cat Website](https://cat-website-next.vercel.app/)
+
+---
+
+### Currently learning:
+
+- [TypeScript](https://www.totaltypescript.com/)
 
 ---
 
