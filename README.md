@@ -1,6 +1,6 @@
-# Welcome and
+# Welcome
 
-_Hi, nice to see you here!🙋‍♂️ My name is Jan, i am a Web Developer living in Braunschweig(Germany) but since i enjoy travelling, you may probably find me in other corners of the world as well🌎 Looking forward to see you there!_
+_Hi, nice to see you here!🙋‍♂️ My name is Jan, i am a Web Developer living in Braunschweig(Germany). I gave up my former profession to become a passionated Web Dev and explore the world of coding 🌎 I enjoy combining sharp logic and gorgeous visuals👨🏼‍💻
 
 ---
 
@@ -19,7 +19,11 @@ _Hi, nice to see you here!🙋‍♂️ My name is Jan, i am a Web Developer liv
 
 ### Projects:
 
+#### Capstone project of Web-Dev Course:
 [What a Feeling - Emotion Tracker](https://github.com/janaRicarda/emotion-tracker)
+
+#### Personal educational/fun projects:
+[Cat Website](https://cat-website-next.vercel.app/)
 
 ---
 
