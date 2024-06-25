@@ -2,17 +2,6 @@
 
 _Hi, nice to see you here!🙋‍♂️ My name is Jan, i am a Web Developer living in Braunschweig(Germany) but since i enjoy travelling, you may probably find me in other corners of the world as well🌎 Looking forward to see you there!_
 
-## About Me:
-
-- M/32 y
-- Hobbies
-  - Sports: 🏊🏻‍♀️ 🏃🏻‍♂️ 🏂🏻 🏄🏻‍♂️ 🏝-🏐
-  - Music: 🎵🎸
-  - Travelling: 🌍✈🚂🥾 + 🤝🏻👋🏻
-- I engaged into a career change towards Web-Developing and this quote pretty much hits the core of my motivation:
-
-> _"Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So, throw off the bowlines, sail away from safe harbor, catch the trade winds in your sails. Explore, Dream, Discover." -[Mark Twain](https://en.wikipedia.org/wiki/Mark_Twain)_
-
 ---
 
 ### Carrer:
@@ -25,6 +14,25 @@ _Hi, nice to see you here!🙋‍♂️ My name is Jan, i am a Web Developer liv
   - [x] Javascript
   - [X] React
   - [x] Next.js
+
+---
+
+### Projects:
+
+[What a Feeling - Emotion Tracker](https://github.com/janaRicarda/emotion-tracker)
+
+---
+
+### About Me:
+
+- M/32 y
+- Hobbies
+  - Sports: 🏊🏻‍♀️ 🏃🏻‍♂️ 🏂🏻 🏄🏻‍♂️ 🏝-🏐
+  - Music: 🎵🎸
+  - Travelling: 🌍✈🚂🥾 + 🤝🏻👋🏻
+- I engaged into a career change towards Web-Developing and this quote pretty much hits the core of my motivation:
+
+> _"Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So, throw off the bowlines, sail away from safe harbor, catch the trade winds in your sails. Explore, Dream, Discover." -[Mark Twain](https://en.wikipedia.org/wiki/Mark_Twain)_
 
 ---
 
