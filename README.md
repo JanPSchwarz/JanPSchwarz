@@ -1,6 +1,6 @@
 # Welcome
 
-_Hi, nice to see you here!🙋‍♂️ My name is Jan, i am a Web Developer living in Braunschweig(Germany). I gave up my former profession to become a passionated Web Dev and explore the world of coding 🌎 I enjoy combining sharp logic and gorgeous visuals👨🏼‍💻
+_Hi, nice to see you here!🙋‍♂️ My name is Jan, i am a Web Developer living in Braunschweig(Germany). I gave up my former profession to become a passionated Web Dev and explore the world of coding 🌎 I enjoy combining sharp logic and gorgeous visuals👨🏼‍💻_
 
 ---
 
