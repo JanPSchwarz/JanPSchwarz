@@ -26,7 +26,7 @@ _I gave up my former profession to become a passionated Web Dev, explore the wor
 
 #### Personal educational/fun projects:
 
-[Space Website](https://space-website-omqd6khuw-janpschwarzs-projects.vercel.app)
+[Space Website](https://space-website-gamma.vercel.app/)
 - build using a professional Design-Template from Figma
 - build on NextJS 14 with app router
 - fully responsive
