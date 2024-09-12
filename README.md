@@ -25,7 +25,15 @@ _I gave up my former profession to become a passionated Web Dev, explore the wor
 [What a Feeling - Emotion Tracker](https://github.com/janaRicarda/emotion-tracker)
 
 #### Personal educational/fun projects:
+
+[Space Website](https://space-website-omqd6khuw-janpschwarzs-projects.vercel.app)
+- build using a professional Design-Template from Figma
+- build on NextJS 14 with app router
+- fully responsive
+
 [Cat Website](https://cat-website-next.vercel.app/)
+- Using a free API to fetch Cats (images, descriptions), implemented pagination on custom (non-library) solution
+- i've build that website on vanilla JS, react only and NextJS 13 with page router
 
 ---
 
