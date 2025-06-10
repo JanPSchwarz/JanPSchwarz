@@ -1,15 +1,12 @@
 # Welcome
 
-_Hi, nice to see you here!🙋‍♂️ My name is Jan, i am a Web Developer living in Braunschweig(Germany)._
-
-_I gave up my former profession to become a passionated Web Dev, explore the world of coding and develop not only great web apps but continously myself 🌎 I enjoy combining sharp logic and gorgeous visuals👨🏼‍💻_
+_Hey, my name is Jan, i am a Web Developer living in Braunschweig(Germany)._
 
 ---
 
 ### Carrer:
 
-- I participated in a web-dev course @ `<NeueFische GmbH/>`
-- Finished **June 2024** and currently looking for a job 🚀
+- Web-dev course @ `<NeueFische GmbH/>`, finished June 2024
 - So far main stack:
   - [x] HTML
   - [x] CSS
@@ -37,22 +34,14 @@ _I gave up my former profession to become a passionated Web Dev, explore the wor
 
 ---
 
-### Currently learning:
+### Personal Me:
 
-- [TypeScript](https://www.totaltypescript.com/)
-
----
-
-### About Me:
-
-- M/32 y
+- M/33 y
 - Hobbies
   - Sports: 🏊🏻‍♀️ 🏃🏻‍♂️ 🏂🏻 🏄🏻‍♂️ 🏝-🏐
   - Music: 🎵🎸
-  - Travelling: 🌍✈🚂🥾 + 🤝🏻👋🏻
-- I engaged into a career change towards Web-Developing and this quote pretty much hits the core of my motivation:
-
-> _"Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So, throw off the bowlines, sail away from safe harbor, catch the trade winds in your sails. Explore, Dream, Discover." -[Mark Twain](https://en.wikipedia.org/wiki/Mark_Twain)_
+  - Travelling: 🌍🚂🥾✈️ 
+  - Coding 🧑🏼‍💻
 
 ---
 
