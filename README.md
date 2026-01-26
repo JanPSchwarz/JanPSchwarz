@@ -4,33 +4,50 @@ _Hey, my name is Jan, i am a Web Developer living in Braunschweig(Germany)._
 
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JanPSchwarz&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
 ### Carrer:
 
-- Web-dev course @ `<NeueFische GmbH/>`, finished June 2024
-- So far main stack:
+- Finished 2 Courses @ `<NeueFische GmbH/>`: Web-Development & Java
+- Tech Stack:
   - [x] HTML
   - [x] CSS
+  - [x] Java
+  - [x] Spring Boot
+  - [x] CI/CD DevOps
+  - [x] Backend Testing with JUnit 5 / Mockito
   - [x] Javascript
+  - [x] TypeScript
   - [X] React
   - [x] Next.js
+  - [x] Styled-Components
+  - [x] Tailwind
+  - [x] Git/Github
 
 ---
 
 ### Projects:
 
+#### Capstone project of Java Course:
+[Event Buddy - Event & Ticketing Platform](https://github.com/JanPSchwarz/Event-Buddy)
+
 #### Capstone project of Web-Dev Course:
 [What a Feeling - Emotion Tracker](https://github.com/janaRicarda/emotion-tracker)
 
-#### Personal educational/fun projects:
+### Fun Projects
 
+#### Backgammon online Multiplayer:
+[Backgammon With Friends](https://backgammon-multiplayer.vercel.app/)
+
+#### Memory Game:
+[Memory Game](https://memory-phi-six.vercel.app/)
+
+#### Audio Web Shop:
+[Audio WebShop](https://audiophile-web-shop.vercel.app/)
+
+#### Space Website:
 [Space Website](https://space-website-gamma.vercel.app/)
-- build using a professional Design-Template from Figma
-- build on NextJS 14 with app router
-- fully responsive
 
-[Cat Website](https://cat-website-next.vercel.app/)
-- Using a free API to fetch Cats (images, descriptions), implemented pagination on custom (non-library) solution
-- i've build that website on vanilla JS, react only and NextJS 13 with page router
 
 ---
 
