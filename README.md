@@ -4,8 +4,6 @@ _Hey, my name is Jan, i am a Web Developer living in Braunschweig(Germany)._
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JanPSchwarz&theme=dark&show_icons=true&hide_border=true&layout=compact)
-
 ### Carrer:
 
 - Finished 2 Courses @ `<NeueFische GmbH/>`: Web-Development & Java
