@@ -22,6 +22,9 @@ _Hey, my name is Jan, i am a Web Developer living in Braunschweig(Germany)._
   - [x] Tailwind
   - [x] Git/Github
 
+- Currently learning:
+  - [ ] Flutter
+
 ---
 
 ### Projects:
